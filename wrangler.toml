@@ -1,4 +1,4 @@
-name = "mon-portfolio"
+name = "mon-portfolio"  # Remplace par le vrai nom du projet Cloudflare Pages
 
 kv_namespaces = [
   { id = "MY_KV", binding="MY_KV" }
@@ -6,4 +6,6 @@ kv_namespaces = [
 
 [build]
 command = "npm run build"
+
 pages_build_output_dir = "./build"
+
