@@ -1,9 +1,9 @@
 {
-  "name": "portfolio",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
-  "author": "Hamish Williams",
+  "name": "mon-portfolio",
+  "homepage": "https://sofiane-ui.com",
+  "description": "Portfolio de Sofiane - UI/UX Designer & Développeur Frontend",
+  "repository": "https://github.com/MiloYounG878/mon-portfolio.git",
+  "author": "Sofiane AITHABIB",
   "sideEffects": false,
   "type": "module",
   "scripts": {
